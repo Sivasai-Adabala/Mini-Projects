@@ -3,7 +3,7 @@ const minEl = document.getElementById("minute")
 const secEl = document.getElementById("second")
 const ampmEl = document.getElementById("ampm");
 
-function UpdateClock()
+function UpdateClock
 {
     let h = new Date().getHours()
     let m = new Date().getMinutes()
