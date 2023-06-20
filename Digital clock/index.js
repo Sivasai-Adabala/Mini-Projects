@@ -26,4 +26,4 @@ function UpdateClock()
         UpdateClock();
     },1000)
 }
-UpdateClock()
+UpdateClock();
